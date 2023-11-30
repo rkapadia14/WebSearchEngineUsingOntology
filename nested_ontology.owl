@@ -1,0 +1,276 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="https://en.wikipedia.org/wiki/Disney&apos;"
+    xmlns:j.1="https://en.wikipedia.org/wiki/"
+    xmlns:j.2="https://en.wikipedia.org/wiki/Animals,Animals,"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.3="https://en.wikipedia.org/wiki/AnimalCrossing:"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_(2023_film)">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Working_animal">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Socialanimal__">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_(disambiguation)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_Kingdom">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Working_animal"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animalize"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_Kingdom"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/The_Animal"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/The_Animals"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Listofnationalanimals">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Aquatic_animal"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/The_Animals">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animals,Animals,Animals">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/The_Animals"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Suicidemethods">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_suicide"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Listsofanimals">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/List_of_animal_sounds"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Suicide">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_suicide"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/SpiritAnimal">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Spirit_animal"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalRights_album_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_rights"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_testing">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Historyofanimaltesting">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_testing"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_track">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_husbandry">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/TheAnimalKingdom_2023film_">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_(2023_film)"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_rights">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_Farm">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Terrestrial_animal">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_welfare">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/List_of_animal_sounds">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_(disambiguation)">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Spiritanimal">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_(disambiguation)"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalFarm_video_">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_Farm"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Familiar">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Spirit_animal"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Listofonomatopoeias">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/List_of_animal_sounds"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalhusbandryinPakistan">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_husbandry"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/GPSanimaltracking">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_track"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_Crossing">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Listofanimalwelfareorganizations">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_welfare"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/The_Animal">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Disney&apos;sAnimalKingdom">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_Kingdom"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalCrossing:NewHorizons">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_Crossing"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animaltracks__">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_track"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Aquaticanimal">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Terrestrial_animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Terrestrialanimal">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Aquatic_animal"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Aquatic_animal">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animalize">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Testingcosmeticsonanimals">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_testing"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalCrossing:NewLeaf">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_Crossing"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Wolvesaspetsandworkinganimals">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Working_animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalizeWorldTour">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animalize"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animalrightsmovement">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_rights"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalhusbandryinIndia">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_husbandry"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Spirit_animal">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Napoleon_AnimalFarm_">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_Farm"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal__">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_(2023_film)"/>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Terrestrialplant">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Terrestrial_animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_suicide">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/AnimalWelfareParty">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal_welfare"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Animal_2023film_">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/The_Animal"/>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+  </owl:Class>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/IndividualURI">
+    <rdf:type>Aquatic animal</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Animalrightsmovement"/>
+    <rdf:type>Animals, Animals, Animals</rdf:type>
+    <rdf:type>The Animal Kingdom _2023 film_</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Listsofanimals"/>
+    <rdf:type>Animal Welfare Party</rdf:type>
+    <rdf:type>Wolves as pets and working animals</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalRights_album_"/>
+    <rdf:type>Animal Crossing: New Leaf</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalWelfareParty"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Suicidemethods"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Disney&apos;sAnimalKingdom"/>
+    <rdf:type>Disney's Animal Kingdom</rdf:type>
+    <rdf:type>Social animal __</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Socialanimal__"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Animal"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Animals,Animals,Animals"/>
+    <rdf:type>Animal tracks __</rdf:type>
+    <rdf:type>GPS animal tracking</rdf:type>
+    <rdf:type>Terrestrial plant</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Listofnationalanimals"/>
+    <rdf:type>Napoleon _Animal Farm_</rdf:type>
+    <rdf:type>Animal</rdf:type>
+    <rdf:type>Animal __</rdf:type>
+    <rdf:type>Animal Crossing: New Horizons</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Testingcosmeticsonanimals"/>
+    <rdf:type>Animalize World Tour</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Terrestrialanimal"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalhusbandryinIndia"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Suicide"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalCrossing:NewHorizons"/>
+    <rdf:type>Spirit animal</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Animal_2023film_"/>
+    <rdf:type>Testing cosmetics on animals</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/SpiritAnimal"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Familiar"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Listofanimalwelfareorganizations"/>
+    <rdf:type>List of onomatopoeias</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Animaltracks__"/>
+    <rdf:type>List of animal welfare organizations</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Listofonomatopoeias"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalFarm_video_"/>
+    <rdf:type>Animal Farm _video_</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Napoleon_AnimalFarm_"/>
+    <rdf:type>Animal husbandry in India</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Animal__"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalCrossing:NewLeaf"/>
+    <rdf:type>Animal _2023 film_</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Wolvesaspetsandworkinganimals"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/TheAnimalKingdom_2023film_"/>
+    <rdf:type>Terrestrial animal</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Spiritanimal"/>
+    <rdf:type>Animal rights movement</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Terrestrialplant"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalhusbandryinPakistan"/>
+    <rdf:type>Familiar</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/GPSanimaltracking"/>
+    <rdf:type>Animal Rights _album_</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Historyofanimaltesting"/>
+    <rdf:type>Lists of animals</rdf:type>
+    <rdf:type>List of national animals</rdf:type>
+    <rdf:type>Spirit Animal</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Aquaticanimal"/>
+    <rdf:type>Animal husbandry in Pakistan</rdf:type>
+    <rdf:type>Suicide</rdf:type>
+    <rdf:type>Suicide methods</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/AnimalizeWorldTour"/>
+    <rdf:type>History of animal testing</rdf:type>
+  </rdf:Description>
+</rdf:RDF>
